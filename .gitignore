@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Data / artifacts
+sig_data/
+data/
+artifacts/
+*.h5
+*.keras
+*.npz
+
+# OS
+.DS_Store
+Thumbs.db
